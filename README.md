@@ -1,5 +1,6 @@
-#05_ReceiverSyn
-This project contains a COM port data receiver (ReceivSyn.exe) program created in c# in Visual Studia 2022.<br>
-In this case, the data is read synchronously and the com0com driver is used.<br>
-The data generator program SenderSyn.exe is located in the 06_SenderSyn repository. 
-In DemoSenderReceiverSyn.mp4 à demo of the interaction between receivsyn and SenderSyn is in this repository.
+#05_ReceiverSyn<br>
+This project contains a program for receiving data via a COM port (ReceivSyn.exe ),
+created in c# in Visual Studia 2022.
+In this case, the data is read synchronously and the com0com driver is used.
+Data generator program SenderSyn.exe it is located in the 06_SenderSyn repository.
+The DemoSenderReceiverSyn.mp4 is a demonstration of the interaction between receivsyn and SenderSyn.
